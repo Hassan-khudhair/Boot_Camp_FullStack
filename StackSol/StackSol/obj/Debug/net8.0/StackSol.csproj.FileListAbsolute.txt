@@ -1,0 +1,15 @@
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\StackSol\StackSol\bin\Debug\net8.0\StackSol.exe
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\StackSol\StackSol\bin\Debug\net8.0\StackSol.deps.json
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\StackSol\StackSol\bin\Debug\net8.0\StackSol.runtimeconfig.json
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\StackSol\StackSol\bin\Debug\net8.0\StackSol.dll
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\StackSol\StackSol\bin\Debug\net8.0\StackSol.pdb
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\StackSol\StackSol\obj\Debug\net8.0\StackSol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\StackSol\StackSol\obj\Debug\net8.0\StackSol.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\StackSol\StackSol\obj\Debug\net8.0\StackSol.AssemblyInfo.cs
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\StackSol\StackSol\obj\Debug\net8.0\StackSol.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\StackSol\StackSol\obj\Debug\net8.0\StackSol.sourcelink.json
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\StackSol\StackSol\obj\Debug\net8.0\StackSol.dll
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\StackSol\StackSol\obj\Debug\net8.0\refint\StackSol.dll
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\StackSol\StackSol\obj\Debug\net8.0\StackSol.pdb
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\StackSol\StackSol\obj\Debug\net8.0\StackSol.genruntimeconfig.cache
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\StackSol\StackSol\obj\Debug\net8.0\ref\StackSol.dll
