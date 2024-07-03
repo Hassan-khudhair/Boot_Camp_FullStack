@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProblemSolving-100Task/1.0.0": {
+        "runtime": {
+          "ProblemSolving-100Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProblemSolving-100Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

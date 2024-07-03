@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Documents\\programing\\C#\\BootCampFullStackSolutions\\BinarySearch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD8C8AB-BBF7-458F-B7EE-FB2512CBA1A2}|BinarySearch\\BinarySearch.csproj|c:\\users\\msi\\documents\\programing\\c#\\bootcampfullstacksolutions\\binarysearch\\binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD8C8AB-BBF7-458F-B7EE-FB2512CBA1A2}|BinarySearch\\BinarySearch.csproj|solutionrelative:binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\programing\\C#\\BootCampFullStackSolutions\\BinarySearch\\BinarySearch\\Program.cs",
+              "RelativeDocumentMoniker": "BinarySearch\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\programing\\C#\\BootCampFullStackSolutions\\BinarySearch\\BinarySearch\\Program.cs",
+              "RelativeToolTip": "BinarySearch\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwBAAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:03:30.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

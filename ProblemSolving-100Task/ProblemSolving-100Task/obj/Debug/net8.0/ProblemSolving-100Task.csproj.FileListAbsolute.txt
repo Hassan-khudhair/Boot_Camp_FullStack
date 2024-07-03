@@ -1,0 +1,14 @@
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\ProblemSolving-100Task\ProblemSolving-100Task\bin\Debug\net8.0\ProblemSolving-100Task.exe
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\ProblemSolving-100Task\ProblemSolving-100Task\bin\Debug\net8.0\ProblemSolving-100Task.deps.json
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\ProblemSolving-100Task\ProblemSolving-100Task\bin\Debug\net8.0\ProblemSolving-100Task.runtimeconfig.json
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\ProblemSolving-100Task\ProblemSolving-100Task\bin\Debug\net8.0\ProblemSolving-100Task.dll
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\ProblemSolving-100Task\ProblemSolving-100Task\bin\Debug\net8.0\ProblemSolving-100Task.pdb
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\ProblemSolving-100Task\ProblemSolving-100Task\obj\Debug\net8.0\ProblemSolving-100Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\ProblemSolving-100Task\ProblemSolving-100Task\obj\Debug\net8.0\ProblemSolving-100Task.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\ProblemSolving-100Task\ProblemSolving-100Task\obj\Debug\net8.0\ProblemSolving-100Task.AssemblyInfo.cs
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\ProblemSolving-100Task\ProblemSolving-100Task\obj\Debug\net8.0\ProblemSolving-100Task.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\ProblemSolving-100Task\ProblemSolving-100Task\obj\Debug\net8.0\ProblemSolving-100Task.dll
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\ProblemSolving-100Task\ProblemSolving-100Task\obj\Debug\net8.0\refint\ProblemSolving-100Task.dll
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\ProblemSolving-100Task\ProblemSolving-100Task\obj\Debug\net8.0\ProblemSolving-100Task.pdb
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\ProblemSolving-100Task\ProblemSolving-100Task\obj\Debug\net8.0\ProblemSolving-100Task.genruntimeconfig.cache
+C:\Users\MSI\Documents\programing\C#\BootCampFullStackSolutions\ProblemSolving-100Task\ProblemSolving-100Task\obj\Debug\net8.0\ref\ProblemSolving-100Task.dll
