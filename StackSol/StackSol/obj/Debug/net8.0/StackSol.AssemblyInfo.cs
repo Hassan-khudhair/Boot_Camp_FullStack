@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StackSol")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4ab1d81e91e9627c14599d3e459173003a1bca0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e348fc2e0f753eb38fe58ea4aa0b50811230caf3")]
 [assembly: System.Reflection.AssemblyProductAttribute("StackSol")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StackSol")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -230,8 +230,98 @@ public class SampleStack
          */
 
 
+
+
         //12. Write a C# program to remove duplicates from a given stack.
+        /*Stack<int> stack  = new Stack<int>();
+        stack.Push(1);
+        stack.Push(2);
+        stack.Push(3);
+        stack.Push(4);
+        stack.Push(2);
+
+        HashSet<int> seen = new HashSet<int>(); // Use a HashSet to keep track of seen elements
+        Stack<int> tempStack = new Stack<int>(); // Use a temporary stack to hold non-duplicate elements
+
+        while (stack.Count > 0)
+        {
+            int item = stack.Pop();
+            if (!seen.Contains(item))
+            {
+                seen.Add(item);
+                tempStack.Push(item);
+            }
+        }
+
+        // Restore the original order in the resulting stack
+        Stack<int> resultStack = new Stack<int>();
+        while (tempStack.Count > 0)
+            resultStack.Push(tempStack.Pop());
         
+        foreach (int item in resultStack)
+            Console.WriteLine(item);*/
+
+
+
+
+
+
+        // 13.Write a C# program to find the top and bottom elements of a given stack.
+        /*Stack<int> stack = new Stack<int>();
+        stack.Push(1);
+        stack.Push(2);
+        stack.Push(3);
+        stack.Push(4);
+
+        int counts = stack.Count; // from counts i will define index of element top and bottom
+
+        int bottom = stack.ElementAt(counts - 1); // ElementAt : method to define the index of elm in stack
+        int top = stack.ElementAt(0);
+        Console.WriteLine("the Bottom of element in stack: " + bottom);
+        Console.WriteLine("the Top of element in stack: " + top);*/
+
+
+        // 14.Write a C# program to rotate the stack elements to the left direction.
+        /*sorry i dont understand what i need to doing  with this task*/
+
+
+        // 15.Write a C# program to swap the top two elements of a given stack.
+        /*Stack<int> stack = new Stack<int>();
+        stack.Push(1);
+        stack.Push(2);
+        stack.Push(3);
+        stack.Push(4);
+
+        int top1 = stack.Pop();
+        int top2 = stack.Pop();
+        // swap between two top elements in stack by using pop and push methods.
+        stack.Push(top1);
+        stack.Push(top2);
+        foreach (int i in stack) 
+            Console.WriteLine(i);*/
+
+
+
+
+        // 16. Write a C# program to get the nth element from the top of the stack.
+        /*sorry i dont understand what i need to doing  with this task*/
+
+
+
+        // 17.Write a C# program to merge two stacks into one.
+        /*Stack<int> stack1 = new Stack<int>();
+        Stack<int> stack2 = new Stack<int>();
+        for (int i = 0; i < 10; i++) 
+            stack1.Push(i);
+        for (int i = 10;i < 20; i++)
+            stack2.Push(i);
+
+        while (stack1.Count > 0) // push the stack1 to stack2 ,
+            stack2.Push(stack1.Pop());
+
+        foreach (int i in stack2)
+            Console.WriteLine(i);*/
+
 
     }
 }
